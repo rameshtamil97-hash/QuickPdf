@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quick-pdf.online/sitemap.xml
